@@ -7,7 +7,7 @@
 
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 
-One to two paragraph statement about your product and what it does.
+One to two paragraph statement about your product and what it does and some prints or gifs.
 
 ## Prerequisites
 
