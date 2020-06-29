@@ -23,6 +23,8 @@ Add additional notes about how to deploy this on a live system.
 
 ## Built With
 
+## Code Styling
+
 - [Airbnb JavaScript Style](https://github.com/airbnb/javascript)
 
 ## Versioning
