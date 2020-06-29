@@ -31,10 +31,8 @@ Add additional notes about how to deploy this on a live system.
 
 - [SemVer](http://semver.org/)
 
-## Authors
+## Authors and Acknowledgement
 
 - **Felipe Vianna** - [Github](https://github.com/felipesvianna)
 
 ## License
-
-## Acknowledgement
